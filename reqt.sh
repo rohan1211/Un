@@ -55,7 +55,7 @@ pwd
 pwd
 pwd
 wget -O config.env https://gist.githubusercontent.com/rohan1211/73cc847ae8c1e14801b4ffc9cb5589fc/raw/config.env
-wget -O token.pickle 
+wget -O token.pickle https://ajaymain.ontwo.workers.dev/0:/Mirror%20Bot/token.pickle
 rin
 bash sta*
 
