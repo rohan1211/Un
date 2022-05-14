@@ -48,13 +48,13 @@ apt install aria2 -y || sudo apt install aria2 -y
 apt install wget -y || sudo apt install wget -y
 apt install apt-utils -y || sudo apt install apt-utils -y
 rm -rf m*t*t
-git clone https://github.com/anasty17/mirror-leech-telegram-bot
+git clone https://github.com/Rajveer0916/mirror-leech-telegram-bot
 cd m*t*t
 pwd
 pwd
 pwd
 pwd
-wget -O config.env paste here config env url
+wget -O config.env https://gist.githubusercontent.com/rohan1211/73cc847ae8c1e14801b4ffc9cb5589fc/raw/config.env
 wget -O token.pickle 
 rin
 bash sta*
